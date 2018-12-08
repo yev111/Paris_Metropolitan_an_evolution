@@ -9,5 +9,9 @@ The folder contains the three source maps in .png format we have used for this p
 ### Database
 The folder contains the database generated from the extracted information of the three maps. The database is available in three format: .geojson, .csv, .xlsx. For more information on how the database can be used, see http://fdh.epfl.ch/index.php/Paris_Metropolitan,_an_evolution#Creation_of_a_database
 ### Notebooks
+
+### QGIS
+The folder contains the main .gqz file and other shapefiles and .tiff rasters used for the project. However, it was not possible to upload all files due to their big size.
+
 ### Website
 The folder contains the different .html, .css and .js files that were generated to create the following website that displays the work done based on the database: http://valentinebernasconi.ch/paris_metropolitan/index.html

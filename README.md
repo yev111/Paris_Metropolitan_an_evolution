@@ -10,8 +10,7 @@ The folder contains the three source maps in .png format we have used for this p
 The folder contains the database generated from the extracted information of the three maps. The database is available in three format: .geojson, .csv, .xlsx. For more information on how the database can be used, see http://fdh.epfl.ch/index.php/Paris_Metropolitan,_an_evolution#Creation_of_a_database
 ### Notebooks
 The following Jupyter notebooks contributed as helpers to extract information from external sources, create the new database, and input the database into the website.
-  * #### Paris Metropolitan GeoJSON functions.ipynb
-  	* `Helper notebook to extract information from the RATP GeoJSON and insert it into the database`
+	* `Paris Metropolitan GeoJSON functions.ipynb [Helper notebook to extract information from the RATP GeoJSON and insert it into the database]`
 
 ### QGIS
 The folder contains the main .gqz file and other shapefiles and .tiff rasters used for the project. However, it was not possible to upload all files due to their big size.

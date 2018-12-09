@@ -31,7 +31,7 @@ The folder contains the different .html, .css and .js files that were generated 
 ### External sources
 External sources that contributed to the project's making and its database.
   * `positions-geographiques-des-stations-du-reseau-ratp.geojson [The official GeoJSON database from RATP with the current public transportation system of Paris, including Metro, Bus, and RER]`
-  * `emplacement-des-gares-idf.geojson [The official GeoJSON database from the Région Île-de-France departement with the curent geolocation of metropolitan stations]`
+  * `emplacement-des-gares-idf.geojson [The official GeoJSON database from the Région Île-de-France departement with the current geolocations of metropolitan stations]`
   * `Paris_Plan_Metro.pdf [Current Map of the Parisian public transportation system]`
 
 ## Authors

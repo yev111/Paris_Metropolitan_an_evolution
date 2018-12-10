@@ -24,6 +24,10 @@ The following Jupyter notebooks contributed as helpers to extract information fr
 
 ### QGIS
 The folder contains the main .gqz file and other shapefiles and .tiff rasters used for the project. However, it was not possible to upload all files due to their big size.
+  * `/Database [The folder contains the output geojson and csv files of the stations and lines for each map]`
+  * `/shapefiles [The folder contains the shapefiles created for each map. A shapefile contains all points and lines extracted from a map]`
+  * `/primary_data_geolocation [The folder contains geojson files from RATP and itf databases]`
+  * `/quantitative_analysis [The folder contains the different files generated in order to perform the quantitative analysis of the extraction method. Namely shapefiles of perimeters generated for both RATP and idf stations, the xlsx file that contains the results of the analysis and the .png graphs that were generated]`
 
 ### Website
 The folder contains the different .html, .css and .js files that were generated to create the following website that displays the work done based on the database: http://valentinebernasconi.ch/paris_metropolitan/index.html

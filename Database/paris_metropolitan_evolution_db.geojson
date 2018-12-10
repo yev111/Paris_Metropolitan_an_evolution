@@ -1,0 +1,8502 @@
+[
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19081,
+			"stop_name": "Porte Maillot",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.283875687160487,
+				48.87671727241535
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19082,
+			"stop_name": "Porte Dauphine",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.277593685385499,
+				48.87225307885228
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19083,
+			"stop_name": "Porte Dauphine",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.277465602593661,
+				48.87078012674614
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19084,
+			"stop_name": "Victor Hugo",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.28559885987542,
+				48.86994758859919
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19085,
+			"stop_name": "Obligado",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288288598504033,
+				48.87532706585641
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19086,
+			"stop_name": "Etoile",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.295141027867405,
+				48.87475069329314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19087,
+			"stop_name": "Ternes",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.298535221851131,
+				48.878080845880945
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19088,
+			"stop_name": "Courcelles",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.303274285149164,
+				48.879169549611575
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19089,
+			"stop_name": "Monceau",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.308141431239036,
+				48.880514418925884
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190810,
+			"stop_name": "Villiers",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313072618724827,
+				48.881218874281
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190811,
+			"stop_name": "Kleber",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292195123655115,
+				48.87058800255838
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190812,
+			"stop_name": "Alma",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.300072215353196,
+				48.87142054070533
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190813,
+			"stop_name": "Boissiere",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.289761550610179,
+				48.86725784997057
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190814,
+			"stop_name": "Rome",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.319412716920844,
+				48.88217949521979
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190815,
+			"stop_name": "Marbeuf",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.304939361443068,
+				48.870011629995105
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190816,
+			"stop_name": "Trocadero",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.287648184544839,
+				48.86418386296644
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190817,
+			"stop_name": "Passy",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.284766321728468,
+				48.85867630291738
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190818,
+			"stop_name": "Champs-Elysees",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313456867100343,
+				48.86738593276241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190819,
+			"stop_name": "Clichy",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327738098390362,
+				48.88397265430553
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190820,
+			"stop_name": "Blanche",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.331772706333282,
+				48.88397265430553
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190821,
+			"stop_name": "Pigalle",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337408349174186,
+				48.88269182638714
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190822,
+			"stop_name": "Gare Saint-Lazare",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32287095230049,
+				48.87596747981561
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190823,
+			"stop_name": "Grenelle",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288993053859147,
+				48.854001281015265
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190824,
+			"stop_name": "Concorde",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.324471987198474,
+				48.86578489786443
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190825,
+			"stop_name": "Tuileries",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.329915505851621,
+				48.864119821570526
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190826,
+			"stop_name": "Palais Royal",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.336767935214993,
+				48.862070496901104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190827,
+			"stop_name": "Caumartin",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.329082967704669,
+				48.873277741186996
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190828,
+			"stop_name": "Opera",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332605244480234,
+				48.87090820953798
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190829,
+			"stop_name": "Anvers",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.344260778537558,
+				48.88339628174225
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190830,
+			"stop_name": "Barbes",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.349384090211108,
+				48.88435690268104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190831,
+			"stop_name": "Dupleix",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292835537614308,
+				48.8501587972601
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190832,
+			"stop_name": "Motte-Picquet",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.297062269744986,
+				48.84868584515396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190833,
+			"stop_name": "Cambronne",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.301289001875665,
+				48.847276934443734
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190834,
+			"stop_name": "Sevres",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307693141467601,
+				48.84522760977431
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190835,
+			"stop_name": "Chateau-Rouge",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.348999841835592,
+				48.88839151062396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190836,
+			"stop_name": "4 Septembre",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.336383686839477,
+				48.869371216035915
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190837,
+			"stop_name": "Bourse",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.341250832929349,
+				48.868282512305285
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190838,
+			"stop_name": "Sentier",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.345733730643704,
+				48.86738593276241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190839,
+			"stop_name": "Saint-Denis",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.353995070717302,
+				48.86943525743183
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190840,
+			"stop_name": "Rue du Chateau d'Eau",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.355724188407125,
+				48.872445203040044
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190841,
+			"stop_name": "Gare de l'Est",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35726118190919,
+				48.87680001796256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190842,
+			"stop_name": "Lancry",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.361039624268432,
+				48.870972250933896
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190843,
+			"stop_name": "Arts et Metiers",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.355788229803045,
+				48.865464690884835
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190844,
+			"stop_name": "Halles",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.345605647851865,
+				48.8623907038807
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190845,
+			"stop_name": "Louvre",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.341571039908946,
+				48.860469462003124
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190846,
+			"stop_name": "Etienne-Marcel",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.348807717647833,
+				48.86399173877869
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190847,
+			"stop_name": "Hotel de Ville",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.352586160007076,
+				48.85701122662348
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190848,
+			"stop_name": "Chatelet",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.346502227394736,
+				48.8587403443133
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190849,
+			"stop_name": "Cite",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.347783055313124,
+				48.85464169497446
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190850,
+			"stop_name": "Chatelet",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.347014558562091,
+				48.85976500664801
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190852,
+			"stop_name": "Place Saint-Michel",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.342403578055897,
+				48.852656411700956
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190853,
+			"stop_name": "Odeon",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.33804876313338,
+				48.85175983215809
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190854,
+			"stop_name": "Saint-Germain-des-Pres",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.334718610545573,
+				48.8524642875132
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190855,
+			"stop_name": "Saint Sulpice",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.331132292374089,
+				48.85041496284378
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190856,
+			"stop_name": "Vaugirard",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.328826802120992,
+				48.84804543119476
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190857,
+			"stop_name": "Gare Montparnasse",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.325624732325024,
+				48.843242326500814
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190858,
+			"stop_name": "Maine",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32088566902699,
+				48.841641291602826
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190859,
+			"stop_name": "Pasteur",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.31225086734149,
+				48.841473098040304
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190860,
+			"stop_name": "Gare du Nord",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.355152270008888,
+				48.88080327404388
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190861,
+			"stop_name": "Barbes",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350997509576463,
+				48.884444524759935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190862,
+			"stop_name": "La Chapelle",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.359166982336849,
+				48.885144765282256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190863,
+			"stop_name": "Aubervilliers",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364208714097544,
+				48.88505139987928
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190864,
+			"stop_name": "Marcadet",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.349083518815458,
+				48.89140024728164
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190865,
+			"stop_name": "Simplon",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.346609335636598,
+				48.89490144989323
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190866,
+			"stop_name": "Allemagne",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369203763156751,
+				48.882670582103394
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190867,
+			"stop_name": "Combat",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370697609604365,
+				48.8776288503427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190868,
+			"stop_name": "Place de la Republique",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.36518905082879,
+				48.86693851170197
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190869,
+			"stop_name": "Porte de Clignancourt",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343528277338396,
+				48.89840265250482
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190870,
+			"stop_name": "Belleville",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.376206168379939,
+				48.87212029156712
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190871,
+			"stop_name": "Couronnes",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.379754053693021,
+				48.868992550567434
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190872,
+			"stop_name": "Menilmontant",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.383488669812054,
+				48.86661173279155
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190873,
+			"stop_name": "Pere-Lachaise",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.386569728110257,
+				48.86283043397103
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190874,
+			"stop_name": "Martin-Nadaud",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.394038960348324,
+				48.86455769392608
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190875,
+			"stop_name": "Philippe-Auguste",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.389324007498044,
+				48.858582308135624
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190876,
+			"stop_name": "Gambetta",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.397866941870333,
+				48.86516456904542
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190877,
+			"stop_name": "Bagnolet",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.393618816034933,
+				48.85624817306123
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190878,
+			"stop_name": "Parmentier",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.373825350604055,
+				48.865351299851376
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190879,
+			"stop_name": "Saint-Maur",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.378493620752847,
+				48.86432428041864
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190880,
+			"stop_name": "Oberkampf",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369483859365678,
+				48.8637174052993
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190881,
+			"stop_name": "Richard-Lenoir",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.371257802022219,
+				48.860683029702585
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190882,
+			"stop_name": "Breguet-Sabin",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370184099887997,
+				48.857648654105866
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190883,
+			"stop_name": "La Bastille",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.368410157231456,
+				48.85396072068832
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190884,
+			"stop_name": "Saint-Paul",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.360754194187438,
+				48.855174470927004
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190885,
+			"stop_name": "Arsenal",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.366356118365988,
+				48.84985264295739
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190886,
+			"stop_name": "Avron",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.396606508930159,
+				48.85246687424071
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190887,
+			"stop_name": "Gare de Lyon",
+			"stop_line": "1",
+			"stop_info": "The station was built for the World Exposition of 1900. On multiple levels, it is considered a classic example of the architecture of its time. Most notable is the large clock tower atop one corner of the station, similar in style to the clock tower of t",
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.372938379275785,
+				48.84607134413687
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190888,
+			"stop_name": "Austerlitz",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.366636214574916,
+				48.846304757644305
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190889,
+			"stop_name": "Orleans",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364395444903496,
+				48.84275687233122
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190890,
+			"stop_name": "Reuilly",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.386242949199842,
+				48.84775192139043
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190891,
+			"stop_name": "Nation",
+			"stop_line": "6",
+			"stop_info": "Widely known for having the most active guillotines during the French Revolution, the square was renamed Place de la Nation on Bastille Day, 14 July 1880, under the Third Republic.The square includes a large bronze sculpture, the Triomphe de la R\u00e9publiq",
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.3941323257513,
+				48.84821874840531
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190892,
+			"stop_name": "Saint-Mande",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.400341125049193,
+				48.84551115171901
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190893,
+			"stop_name": "Bel-Air",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.399594201825386,
+				48.84257014152527
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190894,
+			"stop_name": "Daumesnil",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.395626172198913,
+				48.84018932374939
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190895,
+			"stop_name": "Charenton",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1915
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.388437036169774,
+				48.83990922754046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190896,
+			"stop_name": "Bercy",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.380127515304924,
+				48.84079619886873
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190897,
+			"stop_name": "Quai de la Gare",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.372518234962393,
+				48.83776182327202
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190898,
+			"stop_name": "Chevaleret",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.367196406992771,
+				48.83524095739167
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190899,
+			"stop_name": "Porte de Vincennes",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.405803001123279,
+				48.847751921390426
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908100,
+			"stop_name": "Saint-Marcel",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.360287367172559,
+				48.83813528488393
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908101,
+			"stop_name": "Route Nationale",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.362201357933563,
+				48.83346701473514
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908102,
+			"stop_name": "Campo-Formio",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35846674181453,
+				48.835567736302096
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908103,
+			"stop_name": "Italie",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35645938565055,
+				48.8316930720786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908104,
+			"stop_name": "Corvisart",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350343951755632,
+				48.829498985108664
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908105,
+			"stop_name": "La Glaciere",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343855056248812,
+				48.83085278345182
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908106,
+			"stop_name": "Saint-Jacques",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337552891547943,
+				48.83243999530241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908107,
+			"stop_name": "Vavin",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.329290053384581,
+				48.84219667991338
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908108,
+			"stop_name": "Raspail",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330457120921779,
+				48.838788842704766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908109,
+			"stop_name": "Raspail",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.331624188458977,
+				48.83869547730179
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908110,
+			"stop_name": "Denfert-Rochereau",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332044332772368,
+				48.83370042824258
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908111,
+			"stop_name": "Denfert-Rochereau",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332044332772368,
+				48.83463408227234
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908112,
+			"stop_name": "Rue Mouton-Duvernet",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330130342011364,
+				48.83145965857116
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908113,
+			"stop_name": "Rue d'Alesia",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32751611072804,
+				48.82828523486998
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908114,
+			"stop_name": "Porte d'Orleans",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.326349043190842,
+				48.82413047443756
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908115,
+			"stop_name": "Edgar-Quinet",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.324855196743228,
+				48.8407261748165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908116,
+			"stop_name": "Reaumur-Sebastopol",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.352024529009197,
+				48.866226600504284
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908117,
+			"stop_name": "Temple",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.360614146082974,
+				48.86650669671321
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908118,
+			"stop_name": "Europe",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.321027215221219,
+				48.87925107421941
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908119,
+			"stop_name": "La Bastille",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.367943330216577,
+				48.85224513140865
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908120,
+			"stop_name": "Villiers",
+			"stop_line": "3",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.31310991650625,
+				48.88107279130376
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908121,
+			"stop_name": "Gare du Nord",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.355180351385521,
+				48.880939171849654
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908122,
+			"stop_name": "Gare de l'Est",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.357007149056435,
+				48.87691159280057
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908123,
+			"stop_name": "Place de la Republique",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.365271346128647,
+				48.867068567506834
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908124,
+			"stop_name": "Pere-Lachaise",
+			"stop_line": "2 Nord",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.386529138770888,
+				48.86291311685181
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908125,
+			"stop_name": "Nation",
+			"stop_line": "2 Nord",
+			"stop_info": "Widely known for having the most active guillotines during the French Revolution, the square was renamed Place de la Nation on Bastille Day, 14 July 1880, under the Third Republic.The square includes a large bronze sculpture, the Triomphe de la R\u00e9publiq",
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.394157307448217,
+				48.848427189871956
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908126,
+			"stop_name": "Nation",
+			"stop_line": "1",
+			"stop_info": "Widely known for having the most active guillotines during the French Revolution, the square was renamed Place de la Nation on Bastille Day, 14 July 1880, under the Third Republic.The square includes a large bronze sculpture, the Triomphe de la R\u00e9publiq",
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.39414282547156,
+				48.84831857504703
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908127,
+			"stop_name": "Italie",
+			"stop_line": "5",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356421129134107,
+				48.8317413388931
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908128,
+			"stop_name": "Italie",
+			"stop_line": "6",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356521327410805,
+				48.83171337658332
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908129,
+			"stop_name": "Etoile",
+			"stop_line": "1",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.295052551277482,
+				48.87488548403311
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908130,
+			"stop_name": "Etoile",
+			"stop_line": "2 Sud",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1908
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294593257877085,
+				48.87423133888709
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908131,
+			"stop_name": "Reaumur-Sebastopol",
+			"stop_line": "4",
+			"stop_info": null,
+			"open_date": null,
+			"close_date": null,
+			"start_map": 1908,
+			"end_map": 1950
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35211499747496,
+				48.866262203851115
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19151,
+			"stop_name": "Malesherbes",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.308004724021708,
+				48.88308645435147
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19152,
+			"stop_name": "Wagram",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.303029030271698,
+				48.883986817982425
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19153,
+			"stop_name": "Pereire",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.298811537474071,
+				48.88455546869672
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19154,
+			"stop_name": "Porte de Champerret",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.291987728902628,
+				48.88545583232767
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19155,
+			"stop_name": "Auteuil",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.259574638188278,
+				48.84934651197046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19155,
+			"stop_name": "Auteuil",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Auteuil, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.259574638188278,
+				48.84934651197046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19156,
+			"stop_name": "Rue Michel-Ange",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.260806714735899,
+				48.846929746434746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19156,
+			"stop_name": "Rue Michel-Ange",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Rue Michel-Ange, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.260806714735899,
+				48.846929746434746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19157,
+			"stop_name": "Mirabeau",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.270900264914491,
+				48.84797227274427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19157,
+			"stop_name": "Mirabeau",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Mirabeau, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.270900264914491,
+				48.84797227274427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19158,
+			"stop_name": "Rue Michel-Ange - Rue d'Auteuil",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.263680574205717,
+				48.84921934274323
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19158,
+			"stop_name": "Rue Michel-Ange - Rue d'Auteuil",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Rue Michel-Ange - Rue d'Auteuil, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.263680574205717,
+				48.84921934274323
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19159,
+			"stop_name": "Wilhem",
+			"stop_line": "8",
+			"stop_info": "Becomes Eglise d'Auteuil, Ligne 10",
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.26938523855572,
+				48.8483131330418
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191510,
+			"stop_name": "Chardon-Lagache",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.266295212032802,
+				48.846738407986855
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191510,
+			"stop_name": "Chardon-Lagache",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Chardon-Lagache, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.266295212032802,
+				48.846738407986855
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191511,
+			"stop_name": "Javel",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.278521615053772,
+				48.84727322026968
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191511,
+			"stop_name": "Javel",
+			"stop_line": "10",
+			"stop_info": "A portion of line 8, which includes station Javel, was affiliated to line 10 in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.278521615053772,
+				48.84727322026968
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191512,
+			"stop_name": "Beaugrenelle",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.286276393154558,
+				48.847302932063165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191513,
+			"stop_name": "Commerce",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294090594842323,
+				48.84737721154689
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191514,
+			"stop_name": "La Motte-Picquet - Grenelle",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.296749800359641,
+				48.849486748884644
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191515,
+			"stop_name": "Champ de Mars",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.301681958078915,
+				48.852532207717324
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191516,
+			"stop_name": "Ecole Militaire",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.305589058922798,
+				48.85495371888673
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191517,
+			"stop_name": "Latour Maubourg",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.309674430527617,
+				48.857464365436606
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191518,
+			"stop_name": "Invalides",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.314294614415249,
+				48.86027212992137
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191519,
+			"stop_name": "Concorde",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.322911034527233,
+				48.8669424275598
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191520,
+			"stop_name": "Madeleine",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.326922126648329,
+				48.86899254131057
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191521,
+			"stop_name": "Opera",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.333419778707281,
+				48.870052699335375
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191522,
+			"stop_name": "Chaussee d'Antin",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.334528345781666,
+				48.87414753748101
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191523,
+			"stop_name": "Porte de la Villette",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.383380409796511,
+				48.89736436094375
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191524,
+			"stop_name": "Pont de Flandre",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.379563673340521,
+				48.8952984210272
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191525,
+			"stop_name": "Crimee",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.375992048400052,
+				48.891971907602255
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191526,
+			"stop_name": "Riquet",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.373260805798517,
+				48.88941574465466
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191527,
+			"stop_name": "La Villette",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.368813782588326,
+				48.88542392854473
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191528,
+			"stop_name": "Place du Danube",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.393149854486616,
+				48.88153716022716
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191529,
+			"stop_name": "Pre Saint Gervais",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.398717387482052,
+				48.8798563955493
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191530,
+			"stop_name": "Place des Fetes",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.392519567732416,
+				48.87607467502409
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191531,
+			"stop_name": "Botzaris",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.388177592314591,
+				48.87933115658746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191532,
+			"stop_name": "Buttes Chaumont",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.381139390226021,
+				48.87842074238695
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191533,
+			"stop_name": "Bolivar",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.37543179350743,
+				48.880836841611384
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191534,
+			"stop_name": "Louis Blanc",
+			"stop_line": "7 bis",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364644957165223,
+				48.881595216614016
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190866,
+			"stop_name": "Avenue Jean Jaures",
+			"stop_line": "2",
+			"stop_info": "stop_name changed from Allemagne to Jean-Jaures",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369203763156751,
+				48.882670582103394
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191536,
+			"stop_name": "Chateau Landon",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.362160755738434,
+				48.87933115658747
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191537,
+			"stop_name": "Gare de l'Est",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35726118190919,
+				48.87680001796256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191538,
+			"stop_name": "Poissonniere",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.349414956931273,
+				48.87810559900986
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191539,
+			"stop_name": "Cadet",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.344652790343982,
+				48.87684502550146
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191540,
+			"stop_name": "Le Peletier",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.340590942372469,
+				48.875724515716215
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191541,
+			"stop_name": "Saint-Placide",
+			"stop_line": "4",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327223219201314,
+				48.84636570305879
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191542,
+			"stop_name": "Opera",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.333606573231748,
+				48.87016785285483
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191543,
+			"stop_name": "Avenue Jean-Jaures",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369640818832079,
+				48.88342237046027
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908112,
+			"stop_name": "Mouton-Duvernet",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Rue Mouton-Duvernet to Mouton-Duvernet",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330130342011364,
+				48.83145965857116
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908113,
+			"stop_name": "Alesia",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Rue d'Alesia to Alesia",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32751611072804,
+				48.82828523486998
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190834,
+			"stop_name": "Sevres-Lecourbe",
+			"stop_line": "5",
+			"stop_info": "stop_name changed from Sevres to Sevres-Lecourbe",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307693141467601,
+				48.84522760977431
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190861,
+			"stop_name": "Barbes-Rochechouart",
+			"stop_line": "2",
+			"stop_info": "stop_name changed from Barbes to Barbes-Rochechouart",
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350997509576463,
+				48.884444524759935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190830,
+			"stop_name": "Barbes-Rochechouart",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Barbes to Barbes-Rochechouart",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.349384090211108,
+				48.88435690268104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191549,
+			"stop_name": "Louis Blanc",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364108636016742,
+				48.88220484091565
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190856,
+			"stop_name": "Rennes",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Vaugirard to Rennes",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.328826802120992,
+				48.84804543119476
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19501,
+			"stop_name": "Louis-Michel",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.286437084265087,
+				48.887639752581904
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19502,
+			"stop_name": "Anatole France",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.283406633492817,
+				48.89046623070604
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19503,
+			"stop_name": "Pont de Levallois-B\u00e9con",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.278190761490543,
+				48.89649799330085
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19504,
+			"stop_name": "Marc Sembat",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.24721605792397,
+				48.835626727307854
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19505,
+			"stop_name": "Porte de Saint-Cloud",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.256423966039714,
+				48.839181679175326
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19506,
+			"stop_name": "Exelmans",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.258813359917851,
+				48.84253265839467
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19507,
+			"stop_name": "Michel-Ange - Molitor",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.26079480849972,
+				48.845650526016136
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19508,
+			"stop_name": "Michel-Ange - Auteuil",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.262514006533989,
+				48.84836044834134
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19509,
+			"stop_name": "Jasmin",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.267117960591861,
+				48.85226506760561
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195010,
+			"stop_name": "Ranelagh",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.268924575475331,
+				48.855324657327614
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195011,
+			"stop_name": "Muette",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.27411130852787,
+				48.858092857552286
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195012,
+			"stop_name": "Pompe",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.277753677244541,
+				48.86409548119736
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195013,
+			"stop_name": "Iena",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.293226459552961,
+				48.86432859279523
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195014,
+			"stop_name": "Alma-Marceau",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.299899279041903,
+				48.8649113717899
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195015,
+			"stop_name": "Franklin D. Roosevelt",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.308495269213247,
+				48.86843718470764
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195016,
+			"stop_name": "Saint Philippe du Roule",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.309282020856048,
+				48.87254577662004
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195017,
+			"stop_name": "Miromesnil",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.315546895048723,
+				48.87394444620723
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195018,
+			"stop_name": "Saint Augustin",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32157865764353,
+				48.87441066940297
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195019,
+			"stop_name": "Havre-Caumartin",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.328630283479006,
+				48.87385702935804
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195020,
+			"stop_name": "Chausee d'Antin",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.334428934475946,
+				48.872808027167636
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195021,
+			"stop_name": "Richelieu Drouot",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.33990705702582,
+				48.87196299762537
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195022,
+			"stop_name": "Montmartre",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343607703641957,
+				48.87140935758044
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195023,
+			"stop_name": "Bonne Nouvelle",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.34847390824743,
+				48.87056432803817
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195024,
+			"stop_name": "Strasbourg - Saint-Denis",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.354418253993037,
+				48.869369631099104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195025,
+			"stop_name": "Republique",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.362810271516247,
+				48.86776698886377
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195026,
+			"stop_name": "Oberkampf",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.37035725949719,
+				48.8639497864487
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195027,
+			"stop_name": "Saint Ambroise",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.375310880951863,
+				48.8605405293299
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195028,
+			"stop_name": "Voltaire",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.380089668708135,
+				48.85771405120577
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195029,
+			"stop_name": "Charonne",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.385684347056942,
+				48.8545961835843
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195030,
+			"stop_name": "Boulets Montreuil",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.388802214678413,
+				48.85273129080136
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195031,
+			"stop_name": "Nation",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.396232646860422,
+				48.84914719998416
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195032,
+			"stop_name": "Buzenval",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.401011434616695,
+				48.85159487176177
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195033,
+			"stop_name": "Maraichers",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.406489557166569,
+				48.8526730129019
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195034,
+			"stop_name": "Porte de Montreuil",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.412229930264042,
+				48.85351804244417
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195035,
+			"stop_name": "Balard",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.275947062361072,
+				48.83612208945335
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195036,
+			"stop_name": "Lourmel",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.281716574408279,
+				48.83830751068335
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195037,
+			"stop_name": "Boucicaut",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.287311252757086,
+				48.84037637611441
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195038,
+			"stop_name": "Saint Jean-Baptiste",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292060901563625,
+				48.842561797344416
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195039,
+			"stop_name": "Commerce",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294392017542295,
+				48.84486377437336
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195040,
+			"stop_name": "La Motte-Pichet Grenelle",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.2987628600023,
+				48.84923461683336
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195041,
+			"stop_name": "Drouot",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.33990705702582,
+				48.87196299762537
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195042,
+			"stop_name": "Drouot",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.339898099710591,
+				48.871754701066415
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195043,
+			"stop_name": "Bonne Nouvelle",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.348299074549029,
+				48.87009810484245
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195044,
+			"stop_name": "Strasbourg - Saint-Denis",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.354126864495703,
+				48.86907824160178
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195045,
+			"stop_name": "Saint Martin",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.357740094262641,
+				48.86840804575791
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195046,
+			"stop_name": "Saint Martin",
+			"stop_line": "9",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.358206317458375,
+				48.869019963702314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195047,
+			"stop_name": "Republique",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.36196524197398,
+				48.867592155165376
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195048,
+			"stop_name": "Filles du Calvaire",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.366073833886385,
+				48.863192173755635
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195049,
+			"stop_name": "Debastien Froissard",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.367443364523853,
+				48.860336556681766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195050,
+			"stop_name": "Chemin Vert",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.36767647612172,
+				48.856781604814294
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195051,
+			"stop_name": "Bastille",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369016867809455,
+				48.853663737192825
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195052,
+			"stop_name": "Ledru-Rollin",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.37519432515293,
+				48.851157787515746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195053,
+			"stop_name": "Faidherbe-Chaligny",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.384314816419475,
+				48.85016706322481
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195054,
+			"stop_name": "Reuilly-Diderot",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.387039308219545,
+				48.84761740512314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195055,
+			"stop_name": "Montgallet",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.390244592690215,
+				48.844645232250336
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195056,
+			"stop_name": "Daumesnil",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.395810132089289,
+				48.839808166594594
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195057,
+			"stop_name": "Michel-Bizot",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.404289566461699,
+				48.83663202107366
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195058,
+			"stop_name": "Porte Dor\u00e9e",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.406620682440369,
+				48.834971100938866
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195059,
+			"stop_name": "Porte de Charenton",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.399773029253027,
+				48.83202806701579
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195060,
+			"stop_name": "Liberte",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.407931935178371,
+				48.826112860219915
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195061,
+			"stop_name": "Porte de la Chapelle",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.359357305972843,
+				48.897736398664534
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195062,
+			"stop_name": "Marx-Dormoy",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.360668558710845,
+				48.89042252228146
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195063,
+			"stop_name": "Marcadet-Poissonniers",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.351314955846433,
+				48.89112185707506
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195064,
+			"stop_name": "J.Joffrin",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343971940513624,
+				48.89249138771253
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195065,
+			"stop_name": "Lamarck-Caulaincourt",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.338522956913483,
+				48.88946093694025
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195066,
+			"stop_name": "Abbesses",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.338202428466416,
+				48.884711288133715
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195067,
+			"stop_name": "Pigalle",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337677927371215,
+				48.88229275530584
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195068,
+			"stop_name": "Saint Georges",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337328259974415,
+				48.87865038658917
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195069,
+			"stop_name": "Notre Dame de Lorette",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.338522956913482,
+				48.87591132531424
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195070,
+			"stop_name": "Trinite",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332432916419208,
+				48.876202714811576
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195071,
+			"stop_name": "Gare Saint Lazare",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327071349668268,
+				48.87556165791744
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195072,
+			"stop_name": "Concorde",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.323924343097064,
+				48.866441166650894
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195073,
+			"stop_name": "Chemin des Deputes",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.321156142872394,
+				48.86102132200049
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195074,
+			"stop_name": "Solferino",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32310845250453,
+				48.85912729026782
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195075,
+			"stop_name": "Bac",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.326721682271468,
+				48.85510611520461
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195076,
+			"stop_name": "Sevres-Babylone",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327741545512136,
+				48.85169685808581
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195077,
+			"stop_name": "Rennes",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.328266046607336,
+				48.84980282635314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195078,
+			"stop_name": "Notre Dame des Champs",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.329548160395605,
+				48.84449953750167
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195079,
+			"stop_name": "Montparnasse",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.322787924057463,
+				48.84455781540113
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195080,
+			"stop_name": "Falguiere",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.318038275250923,
+				48.84429556485353
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195081,
+			"stop_name": "Pasteur",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313026375896784,
+				48.84275120051766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195082,
+			"stop_name": "Volontaires",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307693948095577,
+				48.84114855828233
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195083,
+			"stop_name": "Vaugirard",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.302157547646237,
+				48.839487638147524
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195084,
+			"stop_name": "Convention",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.296621147196896,
+				48.83718566111859
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195085,
+			"stop_name": "Porte de Versaille",
+			"stop_line": "12",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288083434925019,
+				48.832465151261786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195086,
+			"stop_name": "Segur",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.305974750061308,
+				48.848578990464325
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195087,
+			"stop_name": "Duroc",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.316173382467988,
+				48.84668495873166
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195088,
+			"stop_name": "Vaneau",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.320631641777193,
+				48.84840415676593
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195089,
+			"stop_name": "Sevres-Babylone",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327013071768801,
+				48.8510849401414
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195090,
+			"stop_name": "Croix-Rouge",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330801135234139,
+				48.85192996968367
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195091,
+			"stop_name": "Mabillon",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.335375950342278,
+				48.85222135918101
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195092,
+			"stop_name": "Odeon",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.33945540330495,
+				48.85233791497995
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195093,
+			"stop_name": "Cluny",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.344438163709357,
+				48.85096838434248
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195094,
+			"stop_name": "Saint Germain",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.348925561968296,
+				48.84989024320234
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195095,
+			"stop_name": "Card Lemoine",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.352276541187634,
+				48.8462770134354
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195096,
+			"stop_name": "Lemoine Jussieu",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356618244697906,
+				48.8460147628878
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195097,
+			"stop_name": "Gare d'Orleans - Austerliz",
+			"stop_line": "10",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.363961260030714,
+				48.8431300068642
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195098,
+			"stop_name": "Pierre Curie",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.374859227230995,
+				48.81760428689776
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 195099,
+			"stop_name": "Porte d'Ivry",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.368740047786988,
+				48.82089698821763
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950100,
+			"stop_name": "Porte de Choisy",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364398344276715,
+				48.81923606808283
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950101,
+			"stop_name": "Porte d'Italie",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.359969223917243,
+				48.8183327606411
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950102,
+			"stop_name": "La Maison Blanche",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.357492413189906,
+				48.8220042683075
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950103,
+			"stop_name": "Tolbiac",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356880495245506,
+				48.825675775973906
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950104,
+			"stop_name": "Place d'Italie",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35484076876417,
+				48.832232039663914
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950105,
+			"stop_name": "Gobelins",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.3519851516903,
+				48.83587440838059
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950106,
+			"stop_name": "Censier Daubenton",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.351868595891367,
+				48.84085716878499
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950107,
+			"stop_name": "Monge",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.352189124338433,
+				48.84377106375833
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950108,
+			"stop_name": "Lemoine Jussieu",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356763939446573,
+				48.8454902617926
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950109,
+			"stop_name": "Sully-Morland",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.361193059806045,
+				48.85137632963874
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950110,
+			"stop_name": "Place Marie",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.357142745793106,
+				48.853153805572475
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950111,
+			"stop_name": "Chatelet",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.346652723889093,
+				48.85708756378648
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950112,
+			"stop_name": "Pont Neuf",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.341582546635486,
+				48.858340538625015
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950113,
+			"stop_name": "Palais Royal",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.335405089292012,
+				48.86361468852676
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950114,
+			"stop_name": "Pyramides",
+			"stop_line": "7",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.333773308106943,
+				48.86641202770116
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950116,
+			"stop_name": "Porte de Saint Ouen",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.328673991903603,
+				48.89703706387094
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950117,
+			"stop_name": "Guy Mocquet",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327187905467202,
+				48.892083442416265
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950118,
+			"stop_name": "Porte de Clichy",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.314162794936385,
+				48.89400661309867
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950119,
+			"stop_name": "Brochant",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.320078001732259,
+				48.89050993913066
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950120,
+			"stop_name": "La Fourche",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.325789235879999,
+				48.887362932559455
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950121,
+			"stop_name": "Clichy",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327712406562402,
+				48.88348745224492
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950122,
+			"stop_name": "Liege",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327362739165602,
+				48.87929144348331
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950123,
+			"stop_name": "Gare Saint Lazare",
+			"stop_line": "13",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32578923588,
+				48.87553251896771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950124,
+			"stop_name": "Invalides",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.314832990780252,
+				48.86070079355342
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950125,
+			"stop_name": "Varenne",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.315648881372787,
+				48.856009422646345
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950126,
+			"stop_name": "Saint Francois-Xavier",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.315095241327853,
+				48.851929969683674
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950127,
+			"stop_name": "Duroc",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.316785300412388,
+				48.847442571424736
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950128,
+			"stop_name": "Montparnasse Bienven\u00fce",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.321272698671327,
+				48.84307172896473
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950129,
+			"stop_name": "Gaite",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.322846201956929,
+				48.83858433070579
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950130,
+			"stop_name": "Pernety",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.318737610044524,
+				48.83400951559765
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950131,
+			"stop_name": "Plaisance",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313230348544917,
+				48.83106648167458
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950132,
+			"stop_name": "Porte de Vanves",
+			"stop_line": "14",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.306237000608909,
+				48.82777378035471
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950133,
+			"stop_name": "Chatelet",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.345574582748961,
+				48.858223982826104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950134,
+			"stop_name": "Hotel-de-Ville",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.352101707489235,
+				48.85802001017797
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950135,
+			"stop_name": "Rambuteau",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.353791766573771,
+				48.86157496204544
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950136,
+			"stop_name": "Arts-et-Metiers",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.356618244697908,
+				48.86501335811398
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950137,
+			"stop_name": "Republique",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.363873843181516,
+				48.86746102989159
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950138,
+			"stop_name": "Goncourt",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370808913218058,
+				48.86967559007132
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950139,
+			"stop_name": "Belleville",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.376141341019265,
+				48.87162789970345
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950140,
+			"stop_name": "Pyrenees",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.385757194431278,
+				48.87363848723505
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950141,
+			"stop_name": "Jourdain",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.389865786343683,
+				48.87474576732492
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950142,
+			"stop_name": "Place des Fetes",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.393071070814353,
+				48.87588218636452
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950143,
+			"stop_name": "Telegraphe",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.398345220716093,
+				48.875474241068254
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950144,
+			"stop_name": "Porte des Lilas",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.407057766686371,
+				48.87713516120305
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950145,
+			"stop_name": "Mairie des Lilas",
+			"stop_line": "11",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.416498786399983,
+				48.87990336142772
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950146,
+			"stop_name": "Pelleport",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.40134653253863,
+				48.86883056052904
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950147,
+			"stop_name": "Saint Fargeau",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.404260427511967,
+				48.87194842815051
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950148,
+			"stop_name": "Porte des Lilas",
+			"stop_line": "3",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.40618359819437,
+				48.87646496535918
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950149,
+			"stop_name": "Sablons",
+			"stop_line": "1",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.27179924493941,
+				48.88052310332813
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950150,
+			"stop_name": "Pont de Neuilly",
+			"stop_line": "1",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.260010023418836,
+				48.8840598697843
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950151,
+			"stop_name": "Jaures",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370540172696534,
+				48.88256144972009
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950152,
+			"stop_name": "Laumiere",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.379698208697564,
+				48.8846941430354
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950153,
+			"stop_name": "Ourcq",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.38584538354757,
+				48.886241391126894
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950154,
+			"stop_name": "Porte de Pantin",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.392996178781251,
+				48.88820681437826
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950155,
+			"stop_name": "Hoche",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.402237849814254,
+				48.8905485952735
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950156,
+			"stop_name": "Eglise de Pantin",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.411061345687393,
+				48.892639471072826
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950157,
+			"stop_name": "Stalingrad",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.367942979103002,
+				48.884937463049404
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19085,
+			"stop_name": "Argentine",
+			"stop_line": "1",
+			"stop_info": "stop_name changed from Obligado to Argentine",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288288598504033,
+				48.87532706585641
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190864,
+			"stop_name": "Marcadet-Poissonniers",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Marcadet to Marcadet-Poissonniers",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.349083518815458,
+				48.89140024728164
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190812,
+			"stop_name": "George V",
+			"stop_line": "1",
+			"stop_info": "stop_name changed from Alma to George V in between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.300072215353196,
+				48.87142054070533
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190815,
+			"stop_name": "Franklin D. Roosevelt",
+			"stop_line": "1",
+			"stop_info": "Station Marbeu was merged with station Franklin D. Roosevelt in-between 1915 and",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307969191923143,
+				48.86907762210275
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190818,
+			"stop_name": "Champs-Elysees - Clemenceau",
+			"stop_line": "1",
+			"stop_info": "Clemenceau was added to Champs-Elysees in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313456867100343,
+				48.86738593276241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190827,
+			"stop_name": "Havre-Caumartin",
+			"stop_line": "3",
+			"stop_info": "stop_name changed from Caumartin to Havre-Caumartin in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.329082967704669,
+				48.873277741186996
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1950158,
+			"stop_name": "Montmartre",
+			"stop_line": "8",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343403730993823,
+				48.870972273334445
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190839,
+			"stop_name": "Strasbourg - Saint-Denis",
+			"stop_line": "4",
+			"stop_info": "stop_name changed from Saint-Denis to Strasbourg-Saint-Denis in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.353995070717302,
+				48.86943525743183
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190867,
+			"stop_name": "Colonel Fabien",
+			"stop_line": "2",
+			"stop_info": "stop_line was renamed from Combat to Colonel Fabien after WWII in honor of Fabien",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370697609604365,
+				48.8776288503427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190892,
+			"stop_name": "Picpus",
+			"stop_line": "6",
+			"stop_info": "Saint-Mand\u00e9 was changed to Picpus in-between 1915 to 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.400341125049193,
+				48.84551115171901
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190895,
+			"stop_name": "Dugommier",
+			"stop_line": "6",
+			"stop_info": "Charenton was changed to Dugommier in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.388437036169774,
+				48.83990922754046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190889,
+			"stop_name": "Gare d'Orleans - Austerlitz",
+			"stop_line": "5",
+			"stop_info": "Austerlitz was added to Gare d'Orleans in-between 1915 and 1950 and only remains",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364395444903496,
+				48.84275687233122
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190888,
+			"stop_name": "Quai de la Rapee",
+			"stop_line": "5",
+			"stop_info": "Austerlitz changed to Quai de la Rap\u00e9e in 1916",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.366636214574916,
+				48.846304757644305
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190858,
+			"stop_name": "Montparnasse - Bienvenue",
+			"stop_line": "6",
+			"stop_info": "Maine station was merged with Montpanasse - Bienvenue in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32088566902699,
+				48.841641291602826
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190857,
+			"stop_name": "Montparnasse - Bienvenue",
+			"stop_line": "4",
+			"stop_info": "Gare Montparnasse was changed to Montparnasse-Bienvenue in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.325624732325024,
+				48.843242326500814
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190832,
+			"stop_name": "La Motte-Picquet - Grenelle",
+			"stop_line": "6",
+			"stop_info": "Motte-Picquet was modified with Grenelle in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.297062269744986,
+				48.84868584515396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190823,
+			"stop_name": "Bir-Hakeim",
+			"stop_line": "6",
+			"stop_info": "Grenelle was changed to Bir-Hakeim after WWII in honor of the soldier",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288993053859147,
+				48.854001281015265
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19159,
+			"stop_name": "Eglise d'Auteuil",
+			"stop_line": "10",
+			"stop_info": "Wilhem changed to Eglise d'Auteuil in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.26938523855572,
+				48.8483131330418
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191512,
+			"stop_name": "Charles Michels",
+			"stop_line": "10",
+			"stop_info": "Beaugrenelle was changed to Charles Michels after WWII in honor of Michels",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.286276393154558,
+				48.847302932063165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 191513,
+			"stop_name": "Emile Zola",
+			"stop_line": "10",
+			"stop_info": "Commerce was changed to Emile Zola in-between 1915 and 1950",
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294090594842323,
+				48.84737721154689
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19082,
+			"stop_name": "Porte Dauphine",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.277593685385499,
+				48.87225307885228
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19083,
+			"stop_name": "Porte Dauphine",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.277465602593661,
+				48.87078012674614
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19084,
+			"stop_name": "Victor Hugo",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.28559885987542,
+				48.86994758859919
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19086,
+			"stop_name": "Etoile",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.295141027867405,
+				48.87475069329314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19087,
+			"stop_name": "Ternes",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.298535221851131,
+				48.878080845880945
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19088,
+			"stop_name": "Courcelles",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.303274285149164,
+				48.879169549611575
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 19089,
+			"stop_name": "Monceau",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.308141431239036,
+				48.880514418925884
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190810,
+			"stop_name": "Villiers",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.313072618724827,
+				48.881218874281
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190811,
+			"stop_name": "Kleber",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292195123655115,
+				48.87058800255838
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190811,
+			"stop_name": "Kleber",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292195123655115,
+				48.87058800255838
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190813,
+			"stop_name": "Boissiere",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.289761550610179,
+				48.86725784997057
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190813,
+			"stop_name": "Boissiere",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.289761550610179,
+				48.86725784997057
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190814,
+			"stop_name": "Rome",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.319412716920844,
+				48.88217949521979
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190816,
+			"stop_name": "Trocadero",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.287648184544839,
+				48.86418386296644
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190816,
+			"stop_name": "Trocadero",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.287648184544839,
+				48.86418386296644
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190817,
+			"stop_name": "Passy",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.284766321728468,
+				48.85867630291738
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190817,
+			"stop_name": "Passy",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.284766321728468,
+				48.85867630291738
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190819,
+			"stop_name": "Clichy",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.327738098390362,
+				48.88397265430553
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190820,
+			"stop_name": "Blanche",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.331772706333282,
+				48.88397265430553
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190821,
+			"stop_name": "Pigalle",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337408349174186,
+				48.88269182638714
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190823,
+			"stop_name": "Grenelle",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288993053859147,
+				48.854001281015265
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190823,
+			"stop_name": "Grenelle",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.288993053859147,
+				48.854001281015265
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190829,
+			"stop_name": "Anvers",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.344260778537558,
+				48.88339628174225
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190831,
+			"stop_name": "Dupleix",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292835537614308,
+				48.8501587972601
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190831,
+			"stop_name": "Dupleix",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.292835537614308,
+				48.8501587972601
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190832,
+			"stop_name": "Motte-Picquet",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.297062269744986,
+				48.84868584515396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190832,
+			"stop_name": "Motte-Picquet",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.297062269744986,
+				48.84868584515396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190833,
+			"stop_name": "Cambronne",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.301289001875665,
+				48.847276934443734
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190833,
+			"stop_name": "Cambronne",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.301289001875665,
+				48.847276934443734
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190834,
+			"stop_name": "Sevres",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307693141467601,
+				48.84522760977431
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190834,
+			"stop_name": "Sevres",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.307693141467601,
+				48.84522760977431
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190858,
+			"stop_name": "Maine",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.32088566902699,
+				48.841641291602826
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190859,
+			"stop_name": "Pasteur",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.31225086734149,
+				48.841473098040304
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190859,
+			"stop_name": "Pasteur",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.31225086734149,
+				48.841473098040304
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190861,
+			"stop_name": "Barbes",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350997509576463,
+				48.884444524759935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190862,
+			"stop_name": "La Chapelle",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.359166982336849,
+				48.885144765282256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190863,
+			"stop_name": "Aubervilliers",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.364208714097544,
+				48.88505139987928
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190866,
+			"stop_name": "Allemagne",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.369203763156751,
+				48.882670582103394
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190867,
+			"stop_name": "Combat",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.370697609604365,
+				48.8776288503427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190870,
+			"stop_name": "Belleville",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.376206168379939,
+				48.87212029156712
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190871,
+			"stop_name": "Couronnes",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.379754053693021,
+				48.868992550567434
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190872,
+			"stop_name": "Menilmontant",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.383488669812054,
+				48.86661173279155
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190875,
+			"stop_name": "Philippe-Auguste",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.389324007498044,
+				48.858582308135624
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190877,
+			"stop_name": "Bagnolet",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.393618816034933,
+				48.85624817306123
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 190886,
+			"stop_name": "Avron",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.396606508930159,
+				48.85246687424071
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908103,
+			"stop_name": "Italie",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35645938565055,
+				48.8316930720786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908103,
+			"stop_name": "Italie",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.35645938565055,
+				48.8316930720786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908104,
+			"stop_name": "Corvisart",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350343951755632,
+				48.829498985108664
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908104,
+			"stop_name": "Corvisart",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.350343951755632,
+				48.829498985108664
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908105,
+			"stop_name": "La Glaciere",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343855056248812,
+				48.83085278345182
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908105,
+			"stop_name": "La Glaciere",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.343855056248812,
+				48.83085278345182
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908106,
+			"stop_name": "Saint-Jacques",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337552891547943,
+				48.83243999530241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908106,
+			"stop_name": "Saint-Jacques",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.337552891547943,
+				48.83243999530241
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908108,
+			"stop_name": "Raspail",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330457120921779,
+				48.838788842704766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908108,
+			"stop_name": "Raspail",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.330457120921779,
+				48.838788842704766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908111,
+			"stop_name": "Denfert-Rochereau",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332044332772368,
+				48.83463408227234
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908111,
+			"stop_name": "Denfert-Rochereau",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.332044332772368,
+				48.83463408227234
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908115,
+			"stop_name": "Edgar-Quinet",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.324855196743228,
+				48.8407261748165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908115,
+			"stop_name": "Edgar-Quinet",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.324855196743228,
+				48.8407261748165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908124,
+			"stop_name": "Pere-Lachaise",
+			"stop_line": "2",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.386529138770888,
+				48.86291311685181
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908125,
+			"stop_name": "Nation",
+			"stop_line": "2",
+			"stop_info": "Widely known for having the most active guillotines during the French Revolution, the square was renamed Place de la Nation on Bastille Day, 14 July 1880, under the Third Republic.The square includes a large bronze sculpture, the Triomphe de la R\u00e9publiq",
+			"start_map": 1915,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.394157307448217,
+				48.848427189871956
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908130,
+			"stop_name": "Etoile",
+			"stop_line": "5",
+			"stop_info": null,
+			"start_map": 1915,
+			"end_map": 1915,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294593257877085,
+				48.87423133888709
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"stop_id": 1908130,
+			"stop_name": "Etoile",
+			"stop_line": "6",
+			"stop_info": null,
+			"start_map": 1950,
+			"end_map": 1950,
+			"open_date": null,
+			"close_date": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.294593257877085,
+				48.87423133888709
+			]
+		}
+	}
+]

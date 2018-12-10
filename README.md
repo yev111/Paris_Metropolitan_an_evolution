@@ -27,6 +27,10 @@ The folder contains the main .gqz file and other shapefiles and .tiff rasters us
 
 ### Website
 The folder contains the different .html, .css and .js files that were generated to create the following website that displays the work done based on the database: http://valentinebernasconi.ch/paris_metropolitan/index.html
+  * `index.html [Home page of the website]`
+  * `overlay_metro.html [Evolution page - display the map with the overlays of the different networks from 1908, 1915 and 1950]`
+  * `navigation_time.html [Navigation through time page - display the side-by-side maps that enable to navigate between the different map layers and networks]`
+  * `overlay_metro_time.html [A growing network page - display the chronological map with the date of appearance of the different stations]`
 
 ### External sources
 External sources that contributed to the project's making and its database.

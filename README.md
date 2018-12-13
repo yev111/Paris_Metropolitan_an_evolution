@@ -21,6 +21,7 @@ The following Jupyter notebooks contributed as helpers to extract information fr
   * `Paris Metropolitan GeoJSON functions.ipynb [Helper notebook to extract information from the RATP GeoJSON and insert it into the database]`
   * `maps_generator.ipynb [Helper notebook to generate two from the three maps that were used for the website]`
   * `geojson_to_csv.ipynb [Helper notebook to include changes made on the geojson format database to the csv one]`
+  * `database_handling.ipynb [Helper notebook to arrange the three stations databases after their export from QGIS]`
 
 ### QGIS
 The folder contains the main .gqz file and other shapefiles and .tiff rasters used for the project. However, it was not possible to upload all files due to their big size.
